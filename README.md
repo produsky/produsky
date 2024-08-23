@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Produsky </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=28&center=true&vCenter=true&width=600&height=100&lines=Developer+Designer+Independant;Spring+Angular;Master's+degree+in+computer+science">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=28&center=true&vCenter=true&width=600&height=100&lines=Developer+Designer+Independant;Java+Spring+Angular+Ts;Master's+degree+in+computer+science">
 </p>
 
 <br>
