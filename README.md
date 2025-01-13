@@ -32,7 +32,7 @@ Finishing the Lion King on Megadrive isn't my only talent, I'll let you discover
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜 𝗹𝗼𝘃𝗲 (𝙩𝙤 𝙗𝙚 𝙘𝙤𝙣𝙨𝙪𝙢𝙚𝙙 𝙬𝙞𝙩𝙝𝙤𝙪𝙩 𝙢𝙤𝙙𝙚𝙧𝙖𝙩𝙞𝙤𝙣):
 
 - ☕ Java Spring
-- ⚛️ React
+- 🅰️ Angular
 - 🐘 PostgreSQL
 
 𝗠𝘆 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝘀 𝗮 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:
